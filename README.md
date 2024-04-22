@@ -16,11 +16,17 @@ This project requires the following dependencies to be installed:
 The python-api-challenge repository consists of the following folders and files:
 
 **WeatherPy**: Contains WeatherPy.ipynb and VacationPy.ipynb files, along with output_data, .gitignore, and api_keys.py.
+
   WeatherPy.ipynb: Jupyter Notebook file for weather data analysis.
+  
   VacationPy.ipynb: Jupyter Notebook file for vacation planning.
+  
   output_data: Results after running WeatherPy.ipynb.
+  
  .gitignore: Git ignore file to exclude sensitive information like API keys.
+ 
  api_keys.py: Python script containing API keys (not included in the repository for security reasons).
+ 
  
 **README.md**: Overview of the project.
 
