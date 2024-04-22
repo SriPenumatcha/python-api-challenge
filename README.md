@@ -21,6 +21,7 @@ The python-api-challenge repository consists of the following folders and files:
   output_data: Results after running WeatherPy.ipynb.
  .gitignore: Git ignore file to exclude sensitive information like API keys.
  api_keys.py: Python script containing API keys (not included in the repository for security reasons).
+ 
 **README.md**: Overview of the project.
 
 **python-api-challenge_screenshots.docx**: Provides screenshots of the analysis results obtained after executing `WeatherPy.ipynb` and 'VacationPy.ipynb'.
